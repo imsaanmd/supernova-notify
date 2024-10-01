@@ -18,7 +18,3 @@ RegisterNetEvent("notify")
 AddEventHandler("notify", function(type, message)
     notify:Create(type, message)
 end)
-
-RegisterCommand("notifyTeste", function(message)
-    print(message)
-end)
