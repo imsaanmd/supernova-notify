@@ -8,11 +8,9 @@ files {
 }
 
 client_scripts {
-    "@vrp/lib/utils.lua",
-    "client/main.lua"
+    "client/**/*"
 }
 
 server_scripts {
-    "@vrp/lib/utils.lua",
-    "server/server.lua",
+    "server/**/*",
 }
