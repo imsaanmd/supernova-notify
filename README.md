@@ -10,3 +10,7 @@ Types
 "Error"
 "Info"
 "Warning"
+
+emtre na nossa comunidade !
+
+https://discord.gg/gYzvdNaKhk
